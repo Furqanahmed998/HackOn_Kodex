@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.quiz_data{
+    width:500px !important;
+    background:  black !important;
+}
+.text_api{
+overflow-x: auto break-word whitespace-pre-wrap !important;
+
+}
